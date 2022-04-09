@@ -1,0 +1,1 @@
+<p>The settings to get weather data from the API resource http://api.openweathermap.org</p>

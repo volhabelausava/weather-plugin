@@ -1,0 +1,6 @@
+{
+    "name": "root/weather",
+    "autoload": {
+        "psr-4": {"Weather\\": "./src"}
+    }
+}
